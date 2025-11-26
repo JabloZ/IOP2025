@@ -8,7 +8,7 @@ int czy_pierwsza(int n){
 	
 	}
 	return 1;
-
+}
 int czy_dodatnia(int n){
 	if (n>0){
 		return 1;}
